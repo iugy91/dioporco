@@ -17,6 +17,7 @@ public class MessageUtil {
    // prints the message
    public String printMessage(){
       System.out.println(message);
+      int miao =1;
       return message;
    }   
 }  
